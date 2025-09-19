@@ -1,0 +1,39 @@
+{
+  "name": "PANDA CLUB 31",
+  "description": "V1 update",
+  "external_url": "https://PandaClub.xyz",
+  "image": "https://raw.githubusercontent.com/pdcxrp/pdc1/main/31.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "white"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "black white prison"
+    },
+    {
+      "trait_type": "Face",
+      "value": "surprised"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "uncle sam"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/pdcxrp/pdc1/main/30.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
