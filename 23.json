@@ -2,7 +2,7 @@
   "name": "PANDA CLUB 23",
   "description": "V1 update",
   "external_url": "https://PandaClub.xyz",
-  "image": "https://raw.githubusercontent.com/pdcxrp/pdc1/main/5.png",
+  "image": "https://raw.githubusercontent.com/pdcxrp/pdc1/main/23.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -32,7 +32,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/pdcxrp/pdc1/main/5.png",
+        "uri": "https://raw.githubusercontent.com/pdcxrp/pdc1/main/23.png",
         "type": "image/png"
       }
     ],
