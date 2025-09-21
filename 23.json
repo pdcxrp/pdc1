@@ -1,0 +1,43 @@
+{
+  "name": "PANDA CLUB 23",
+  "description": "V1 update",
+  "external_url": "https://PandaClub.xyz",
+  "image": "https://raw.githubusercontent.com/pdcxrp/pdc1/main/5.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "pirates"
+    },
+    {
+      "trait_type": "Face",
+      "value": "pipe"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "knit"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "silver trophy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/pdcxrp/pdc1/main/5.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
